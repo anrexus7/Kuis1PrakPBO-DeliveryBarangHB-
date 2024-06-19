@@ -24,6 +24,7 @@ public class Menu {
         m = scan.nextInt();
 
         for (int i = 0; i < m; i++) {
+            harga = 0;
             System.out.println("Pilih transportasi : \n" +
                     "1. Transportasi Darat \n" +
                     "2. Transportasi Laut \n" +
