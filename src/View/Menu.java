@@ -25,9 +25,9 @@ public class Menu {
 
         for (int i = 0; i < m; i++) {
             System.out.println("Pilih transportasi : \n" +
-                    "1. Transportasi Udara \n" +
+                    "1. Transportasi Darat \n" +
                     "2. Transportasi Laut \n" +
-                    "3. Transportasi Darat");
+                    "3. Transportasi Udara");
             n = scan.nextInt();
 
             System.out.print("Masukkan Berat Berang : ");
